@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\ResourceMonitor\ResourceMonitor\bin\Debug\ResourceMonitor.exe.config
+C:\Users\ADMIN\Desktop\ResourceMonitor\ResourceMonitor\bin\Debug\ResourceMonitor.exe
+C:\Users\ADMIN\Desktop\ResourceMonitor\ResourceMonitor\bin\Debug\ResourceMonitor.pdb
+C:\Users\ADMIN\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.g.resources
+C:\Users\ADMIN\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.exe
+C:\Users\ADMIN\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.pdb
